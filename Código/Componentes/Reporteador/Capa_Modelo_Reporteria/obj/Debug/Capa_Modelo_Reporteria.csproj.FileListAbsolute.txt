@@ -1,0 +1,6 @@
+C:\PULL NUEVO\asis22k24proy2\Codigo\Componentes\Reporteador\Capa_Modelo_Reporteria\bin\Debug\Capa_Modelo_Reporteria.dll
+C:\PULL NUEVO\asis22k24proy2\Codigo\Componentes\Reporteador\Capa_Modelo_Reporteria\bin\Debug\Capa_Modelo_Reporteria.pdb
+C:\PULL NUEVO\asis22k24proy2\Codigo\Componentes\Reporteador\Capa_Modelo_Reporteria\obj\Debug\Capa_Modelo_Reporteria.csproj.AssemblyReference.cache
+C:\PULL NUEVO\asis22k24proy2\Codigo\Componentes\Reporteador\Capa_Modelo_Reporteria\obj\Debug\Capa_Modelo_Reporteria.csproj.CoreCompileInputs.cache
+C:\PULL NUEVO\asis22k24proy2\Codigo\Componentes\Reporteador\Capa_Modelo_Reporteria\obj\Debug\Capa_Modelo_Reporteria.dll
+C:\PULL NUEVO\asis22k24proy2\Codigo\Componentes\Reporteador\Capa_Modelo_Reporteria\obj\Debug\Capa_Modelo_Reporteria.pdb

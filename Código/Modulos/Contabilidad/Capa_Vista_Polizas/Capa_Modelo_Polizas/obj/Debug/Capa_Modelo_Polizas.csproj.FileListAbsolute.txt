@@ -1,0 +1,6 @@
+C:\PULL NUEVO\asis22k24proy2\Codigo\Modulos\Contabilidad\Capa_Vista_Polizas\Capa_Modelo_Polizas\bin\Debug\Capa_Modelo_Polizas.dll
+C:\PULL NUEVO\asis22k24proy2\Codigo\Modulos\Contabilidad\Capa_Vista_Polizas\Capa_Modelo_Polizas\bin\Debug\Capa_Modelo_Polizas.pdb
+C:\PULL NUEVO\asis22k24proy2\Codigo\Modulos\Contabilidad\Capa_Vista_Polizas\Capa_Modelo_Polizas\obj\Debug\Capa_Modelo_Polizas.csproj.AssemblyReference.cache
+C:\PULL NUEVO\asis22k24proy2\Codigo\Modulos\Contabilidad\Capa_Vista_Polizas\Capa_Modelo_Polizas\obj\Debug\Capa_Modelo_Polizas.csproj.CoreCompileInputs.cache
+C:\PULL NUEVO\asis22k24proy2\Codigo\Modulos\Contabilidad\Capa_Vista_Polizas\Capa_Modelo_Polizas\obj\Debug\Capa_Modelo_Polizas.dll
+C:\PULL NUEVO\asis22k24proy2\Codigo\Modulos\Contabilidad\Capa_Vista_Polizas\Capa_Modelo_Polizas\obj\Debug\Capa_Modelo_Polizas.pdb

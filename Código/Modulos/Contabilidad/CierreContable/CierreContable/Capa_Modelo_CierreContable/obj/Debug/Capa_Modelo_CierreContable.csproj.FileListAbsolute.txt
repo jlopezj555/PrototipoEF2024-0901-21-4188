@@ -1,0 +1,6 @@
+C:\PULL NUEVO\asis22k24proy2\Codigo\Modulos\Contabilidad\CierreContable\CierreContable\Capa_Modelo_CierreContable\bin\Debug\Capa_Modelo_CierreContable.dll
+C:\PULL NUEVO\asis22k24proy2\Codigo\Modulos\Contabilidad\CierreContable\CierreContable\Capa_Modelo_CierreContable\bin\Debug\Capa_Modelo_CierreContable.pdb
+C:\PULL NUEVO\asis22k24proy2\Codigo\Modulos\Contabilidad\CierreContable\CierreContable\Capa_Modelo_CierreContable\obj\Debug\Capa_Modelo_CierreContable.csproj.AssemblyReference.cache
+C:\PULL NUEVO\asis22k24proy2\Codigo\Modulos\Contabilidad\CierreContable\CierreContable\Capa_Modelo_CierreContable\obj\Debug\Capa_Modelo_CierreContable.csproj.CoreCompileInputs.cache
+C:\PULL NUEVO\asis22k24proy2\Codigo\Modulos\Contabilidad\CierreContable\CierreContable\Capa_Modelo_CierreContable\obj\Debug\Capa_Modelo_CierreContable.dll
+C:\PULL NUEVO\asis22k24proy2\Codigo\Modulos\Contabilidad\CierreContable\CierreContable\Capa_Modelo_CierreContable\obj\Debug\Capa_Modelo_CierreContable.pdb
